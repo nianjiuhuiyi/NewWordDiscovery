@@ -79,3 +79,5 @@ if __name__ == '__main__':
         print(i, corpus_i[:30])
         if i > 100:
             break
+
+    # 写一点东西做些测试
