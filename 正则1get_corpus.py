@@ -81,6 +81,6 @@ if __name__ == '__main__':
             break
 
     # 写一点东西做些测试
-    #hello物品
+    #hello物品；；；打算sad按时放
     #hello
     # 怎么回事啊
